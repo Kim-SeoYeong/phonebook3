@@ -21,7 +21,7 @@
 		핸드폰(hp) : <input type="text" name="hp" value="${pvo.hp}"><br>
 		회사(company) : <input type="text" name="company" value="${pvo.company}"><br>
 		
-		코드(id) : <input type="hidden" name="id" value="${pvo.personId}"><br>
+		코드(id) : <input type="hidden" name="personId" value="${pvo.personId}"><br>
 		<button type="submit">수정</button>
 		
 	</form>
